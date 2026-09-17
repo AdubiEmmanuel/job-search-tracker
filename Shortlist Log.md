@@ -14,3 +14,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-16 | TrustedHousesitters | Social Content Creator | Content | https://himalayas.app/companies/trustedhousesitters/jobs/social-content-creator |
 | 2026-09-16 | Lower Street | Video Editor (Global - Remote) | Content | https://builtin.com/job/video-editor-global-remote/8610221 |
 | 2026-09-16 | Soar With Us | Performance Video Editor (Paid Social) | Content | https://himalayas.app/companies/soar-with-us/jobs/performance-video-editor-paid-social |
+| 2026-09-17 | DualEntry | Senior/Staff Backend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/dualentry/bb7da28b-f93b-42ff-87dd-10fde58bb359/application |
+| 2026-09-17 | ZOE | React Native Engineer | SWE | https://jobs.ashbyhq.com/zoe/a43b0a0d-dc2c-4cce-8f4d-1f6924081416 |
+| 2026-09-17 | Blackfluo.ai | Product Engineer (Full Remote) | SWE | https://himalayas.app/companies/blackfluo-ai/jobs/product-engineer-full-remote-6659221315 |
+| 2026-09-17 | eXp World Holdings | Social Media Executive, UK (Remote from UK) | Content | https://himalayas.app/companies/exp-world-holdings/jobs/social-media-executive-uk-remote-from-uk |
+| 2026-09-17 | Soar With Us | Digital Video Editor (Ecommerce) | Content | https://himalayas.app/companies/soar-with-us/jobs/digital-video-editor-ecommerce |
