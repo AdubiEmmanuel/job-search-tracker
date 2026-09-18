@@ -19,3 +19,10 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-17 | Blackfluo.ai | Product Engineer (Full Remote) | SWE | https://himalayas.app/companies/blackfluo-ai/jobs/product-engineer-full-remote-6659221315 |
 | 2026-09-17 | eXp World Holdings | Social Media Executive, UK (Remote from UK) | Content | https://himalayas.app/companies/exp-world-holdings/jobs/social-media-executive-uk-remote-from-uk |
 | 2026-09-17 | Soar With Us | Digital Video Editor (Ecommerce) | Content | https://himalayas.app/companies/soar-with-us/jobs/digital-video-editor-ecommerce |
+| 2026-09-18 | HTTPie | Senior Frontend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/httpie/17de9aae-7a3c-40fb-a352-ddbbd7c14385 |
+| 2026-09-18 | Runpod | Software Engineer (Full-Stack) | SWE | https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5 |
+| 2026-09-18 | Search Atlas | Backend Engineer (Python/Django) | SWE | https://himalayas.app/companies/search-atlas/jobs/backend-engineer-python-django |
+| 2026-09-18 | DualEntry | Senior/Staff Frontend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/dualentry/92576bb6-df72-4592-b54c-606952dcf991 |
+| 2026-09-18 | Spotter Labs | Remote UGC Content Creator | Content | https://careers.spotter.ai/jobs/679571-remote-ugc-content-creator |
+| 2026-09-18 | Day Translations | Social Media Content Creator & Designer | Content | https://himalayas.app/companies/day-translations-inc/jobs/social-media-content-creator-designer |
+| 2026-09-18 | D4A Cloud | Content Creator (Video Editor & Social Media) | Content | https://remotive.com/remote/jobs/writing/content-creator-video-editor-social-media-5222679 |
