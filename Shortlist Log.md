@@ -26,3 +26,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-18 | Spotter Labs | Remote UGC Content Creator | Content | https://careers.spotter.ai/jobs/679571-remote-ugc-content-creator |
 | 2026-09-18 | Day Translations | Social Media Content Creator & Designer | Content | https://himalayas.app/companies/day-translations-inc/jobs/social-media-content-creator-designer |
 | 2026-09-18 | D4A Cloud | Content Creator (Video Editor & Social Media) | Content | https://remotive.com/remote/jobs/writing/content-creator-video-editor-social-media-5222679 |
+| 2026-09-19 | Supabase | Frontend Engineer | SWE | https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01 |
+| 2026-09-19 | Sticker Mule | Software Engineer (Frontend) | SWE | https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843 |
+| 2026-09-19 | Spotter Labs | Remote Backend Django Engineer – AI & Algorithmic Systems | SWE | https://careers.spotter.ai/jobs/443401-remote-backend-django-engineer-ai-algorithmic-systems |
+| 2026-09-19 | SnackPilot | Content Creator for TikTok & Instagram (Snack Lover) | Content | https://join.com/companies/snackpilot/13568136-content-creator-for-tiktok-and-instagram-snack-lover |
+| 2026-09-19 | Bjak | Video Editor (Social Media Content) - UK | Content | https://himalayas.app/companies/bjak/jobs/video-editor-social-media-content-uk-8214228314 |
