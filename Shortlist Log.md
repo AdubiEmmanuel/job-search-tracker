@@ -31,3 +31,11 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-19 | Spotter Labs | Remote Backend Django Engineer – AI & Algorithmic Systems | SWE | https://careers.spotter.ai/jobs/443401-remote-backend-django-engineer-ai-algorithmic-systems |
 | 2026-09-19 | SnackPilot | Content Creator for TikTok & Instagram (Snack Lover) | Content | https://join.com/companies/snackpilot/13568136-content-creator-for-tiktok-and-instagram-snack-lover |
 | 2026-09-19 | Bjak | Video Editor (Social Media Content) - UK | Content | https://himalayas.app/companies/bjak/jobs/video-editor-social-media-content-uk-8214228314 |
+| 2026-09-20 | Finmid | Frontend Engineer | SWE | https://jobs.ashbyhq.com/finmid.com/55bd3e16-b3e5-4ec7-bcd3-642bdeec4fe9 |
+| 2026-09-20 | Dash0 | Senior Product Engineer, Frontend (React/TypeScript) | SWE | https://jobs.ashbyhq.com/dash0/bb433d72-7241-49b4-acfb-a6a403f9422c/application |
+| 2026-09-20 | Plane Software | Backend Engineer (Python/Django) | SWE | https://jobs.ashbyhq.com/plane/00beeb42-56c0-48ce-9082-9fba93836b54 |
+| 2026-09-20 | Bjak | Full Stack Engineer, JavaScript/TypeScript (Remote) | SWE | https://jobs.ashbyhq.com/bjakcareer/661a1334-f463-4c88-b27e-068b319980f0/application |
+| 2026-09-20 | Astra | Senior Fullstack Engineer (React/TypeScript/Python) | SWE | https://jobs.ashbyhq.com/astra/6664545a-652e-477e-be12-9a7e8d32f06b |
+| 2026-09-20 | PsiQuantum | Remote Social Media Video Editor (Project-based) | Content | https://himalayas.app/companies/psiquantum/jobs/remote-social-media-video-editor-project-based |
+| 2026-09-20 | Digisperts | Social Media Content Creator | Content | https://himalayas.app/companies/digisperts/jobs/social-media-content-creator |
+| 2026-09-20 | Facelove | AI Video Editor | Content | https://remotive.com/remote/jobs/all-others/ai-video-editor-5626269 |
