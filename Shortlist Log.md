@@ -39,3 +39,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-20 | PsiQuantum | Remote Social Media Video Editor (Project-based) | Content | https://himalayas.app/companies/psiquantum/jobs/remote-social-media-video-editor-project-based |
 | 2026-09-20 | Digisperts | Social Media Content Creator | Content | https://himalayas.app/companies/digisperts/jobs/social-media-content-creator |
 | 2026-09-20 | Facelove | AI Video Editor | Content | https://remotive.com/remote/jobs/all-others/ai-video-editor-5626269 |
+| 2026-09-21 | AlphaSights | Mid-level Frontend Engineer (Remote) - UK | SWE | https://www.alphasights.com/job/mid-level-frontend-engineer-remote-uk/ |
+| 2026-09-21 | Midnite | Senior Backend Engineer (Remote, UK) | SWE | https://jobs.ashbyhq.com/midnite/259bbaa5-005f-4c93-afaf-6214edfe1634 |
+| 2026-09-21 | Ashby | Staff Software Engineer, Product Engineering, UK | SWE | https://jobs.ashbyhq.com/ashby/0020099f-9bb3-4da9-9808-4556564f5301 |
+| 2026-09-21 | Aperture (London) | Video Editor | Content | https://apply.workable.com/aperture-london/j/3158F833B1 |
