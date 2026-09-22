@@ -43,3 +43,11 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-21 | Midnite | Senior Backend Engineer (Remote, UK) | SWE | https://jobs.ashbyhq.com/midnite/259bbaa5-005f-4c93-afaf-6214edfe1634 |
 | 2026-09-21 | Ashby | Staff Software Engineer, Product Engineering, UK | SWE | https://jobs.ashbyhq.com/ashby/0020099f-9bb3-4da9-9808-4556564f5301 |
 | 2026-09-21 | Aperture (London) | Video Editor | Content | https://apply.workable.com/aperture-london/j/3158F833B1 |
+| 2026-09-22 | Foundational | Full Stack Software Engineer | SWE | https://jobs.ashbyhq.com/foundational/ce56f304-849f-4448-9381-5631864d6d4f |
+| 2026-09-22 | Vantage | Senior Engineer | SWE | https://jobs.ashbyhq.com/vantageanalytics/9077ed05-9bee-48fc-bb32-aa47901bc7a0 |
+| 2026-09-22 | Firstwork | Software Engineer | SWE | https://jobs.ashbyhq.com/firstwork/75ed42df-9999-4cf1-a610-45133fe4df0e |
+| 2026-09-22 | DoiT International | Full Stack Engineer - Cloud & SaaS Integrations | SWE | https://himalayas.app/companies/doit-international/jobs/full-stack-engineer-cloud-saas-integrations |
+| 2026-09-22 | Curotec | Sr Python Full Stack Engineer | SWE | https://himalayas.app/companies/curotec/jobs/sr-python-full-stack-engineer |
+| 2026-09-22 | Pitchbox | Video Producer & Editor - UK (Fully Remote) | Content | https://apply.workable.com/pitchbox/j/9EDAF15A53/ |
+| 2026-09-22 | JoinMyTrip | UGC Creator, Short-Form Video (TikTok/Reels/Shorts) | Content | https://join.com/companies/joinmytrip/16388730-ugc-creator-short-form-video-tiktok-reels-shorts |
+| 2026-09-22 | Scaling.com | In-House Video Editor | Content | https://himalayas.app/companies/scaling-com/jobs/in-house-video-editor |
