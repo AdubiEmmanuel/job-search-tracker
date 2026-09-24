@@ -51,3 +51,9 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-22 | Pitchbox | Video Producer & Editor - UK (Fully Remote) | Content | https://apply.workable.com/pitchbox/j/9EDAF15A53/ |
 | 2026-09-22 | JoinMyTrip | UGC Creator, Short-Form Video (TikTok/Reels/Shorts) | Content | https://join.com/companies/joinmytrip/16388730-ugc-creator-short-form-video-tiktok-reels-shorts |
 | 2026-09-22 | Scaling.com | In-House Video Editor | Content | https://himalayas.app/companies/scaling-com/jobs/in-house-video-editor |
+| 2026-09-24 | RoomPriceGenie | Senior Fullstack Engineer (Python & React) | SWE | https://jobs.ashbyhq.com/roompricegenie/6a1843fc-75e3-4c26-9a05-202511a0f878/application |
+| 2026-09-24 | HTTPie | Senior Fullstack Engineer (Remote) | SWE | https://jobs.ashbyhq.com/httpie/470a87ad-0558-46ad-b2fb-9e039cb5baca |
+| 2026-09-24 | Keragon Inc | Fullstack Software Engineer (Remote) | SWE | https://jobs.ashbyhq.com/Keragon/f07160e6-bcbd-4afe-9d3d-5263674e50d8 |
+| 2026-09-24 | Healf | Paid Social Video Editor (Freelance/Contract) | Content | https://jobs.ashbyhq.com/healf/545af5ad-1c42-4c03-ac32-b017a78968fe |
+| 2026-09-24 | Kodify Media Group | Video Editor | Content | https://himalayas.app/companies/kodify-media-group/jobs/video-editor |
+| 2026-09-24 | Lago (beauty/wellness brand) | Social Media & Content Creator | Content | https://apply.workable.com/lago-1/j/1B8FFB13BC |
