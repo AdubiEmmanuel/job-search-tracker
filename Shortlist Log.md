@@ -57,3 +57,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-24 | Healf | Paid Social Video Editor (Freelance/Contract) | Content | https://jobs.ashbyhq.com/healf/545af5ad-1c42-4c03-ac32-b017a78968fe |
 | 2026-09-24 | Kodify Media Group | Video Editor | Content | https://himalayas.app/companies/kodify-media-group/jobs/video-editor |
 | 2026-09-24 | Lago (beauty/wellness brand) | Social Media & Content Creator | Content | https://apply.workable.com/lago-1/j/1B8FFB13BC |
+| 2026-09-25 | MyDataValue | Founding Fullstack Engineer (Python) | SWE | https://weworkremotely.com/remote-jobs/mydatavalue-founding-full-stack-senior-engineer-uk-only |
+| 2026-09-25 | Bjak | Frontend Engineer (Workflow Automation) - Remote (UK) | SWE | https://jobs.ashbyhq.com/bjakcareer/49cf9660-bdc3-4ac1-8430-b6aa1bfb02a2 |
+| 2026-09-25 | Ashby | Senior Software Engineer, Product Engineering - UK | SWE | https://jobs.ashbyhq.com/ashby/472eef28-6e52-43b4-9bff-9113522890f5 |
+| 2026-09-25 | Tempo | Video Editor / Motion Designer | Content | https://jobs.ashbyhq.com/tempo/ead1d7c5-8d75-4515-9553-1db20b16dd8e |
+| 2026-09-25 | Newform | Video Editor (UGC) | Content | https://jobs.ashbyhq.com/newform/05f60571-5578-4f6e-8321-35181f6f34cf |
