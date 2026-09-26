@@ -62,3 +62,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-25 | Ashby | Senior Software Engineer, Product Engineering - UK | SWE | https://jobs.ashbyhq.com/ashby/472eef28-6e52-43b4-9bff-9113522890f5 |
 | 2026-09-25 | Tempo | Video Editor / Motion Designer | Content | https://jobs.ashbyhq.com/tempo/ead1d7c5-8d75-4515-9553-1db20b16dd8e |
 | 2026-09-25 | Newform | Video Editor (UGC) | Content | https://jobs.ashbyhq.com/newform/05f60571-5578-4f6e-8321-35181f6f34cf |
+| 2026-09-26 | Midnite | Senior Fullstack Engineer - Admin/AI (Remote UK) | SWE | https://jobs.ashbyhq.com/midnite/95a652e2-c6bd-45f8-adc9-fe65ad780808 |
+| 2026-09-26 | Kiss My Apps | Full Stack Developer (React/Next.js + Node.js) | SWE | https://jobs.ashbyhq.com/kissmyapps/c2456955-b6d2-401a-bed2-361019154ae7/application |
+| 2026-09-26 | Marisa Peer | AI Social Video Content Creator | Content | https://careers.marisapeer.com/jobs/7308001-ai-social-video-content-creator |
+| 2026-09-26 | Dance Masterclass | Social Media Video Editor | Content | https://www.dance-masterclass.com/job-social-media-video-editor |
