@@ -51,3 +51,26 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-22 | Pitchbox | Video Producer & Editor - UK (Fully Remote) | Content | https://apply.workable.com/pitchbox/j/9EDAF15A53/ |
 | 2026-09-22 | JoinMyTrip | UGC Creator, Short-Form Video (TikTok/Reels/Shorts) | Content | https://join.com/companies/joinmytrip/16388730-ugc-creator-short-form-video-tiktok-reels-shorts |
 | 2026-09-22 | Scaling.com | In-House Video Editor | Content | https://himalayas.app/companies/scaling-com/jobs/in-house-video-editor |
+| 2026-09-24 | RoomPriceGenie | Senior Fullstack Engineer (Python & React) | SWE | https://jobs.ashbyhq.com/roompricegenie/6a1843fc-75e3-4c26-9a05-202511a0f878/application |
+| 2026-09-24 | HTTPie | Senior Fullstack Engineer (Remote) | SWE | https://jobs.ashbyhq.com/httpie/470a87ad-0558-46ad-b2fb-9e039cb5baca |
+| 2026-09-24 | Keragon Inc | Fullstack Software Engineer (Remote) | SWE | https://jobs.ashbyhq.com/Keragon/f07160e6-bcbd-4afe-9d3d-5263674e50d8 |
+| 2026-09-24 | Healf | Paid Social Video Editor (Freelance/Contract) | Content | https://jobs.ashbyhq.com/healf/545af5ad-1c42-4c03-ac32-b017a78968fe |
+| 2026-09-24 | Kodify Media Group | Video Editor | Content | https://himalayas.app/companies/kodify-media-group/jobs/video-editor |
+| 2026-09-24 | Lago (beauty/wellness brand) | Social Media & Content Creator | Content | https://apply.workable.com/lago-1/j/1B8FFB13BC |
+| 2026-09-25 | MyDataValue | Founding Fullstack Engineer (Python) | SWE | https://weworkremotely.com/remote-jobs/mydatavalue-founding-full-stack-senior-engineer-uk-only |
+| 2026-09-25 | Bjak | Frontend Engineer (Workflow Automation) - Remote (UK) | SWE | https://jobs.ashbyhq.com/bjakcareer/49cf9660-bdc3-4ac1-8430-b6aa1bfb02a2 |
+| 2026-09-25 | Ashby | Senior Software Engineer, Product Engineering - UK | SWE | https://jobs.ashbyhq.com/ashby/472eef28-6e52-43b4-9bff-9113522890f5 |
+| 2026-09-25 | Tempo | Video Editor / Motion Designer | Content | https://jobs.ashbyhq.com/tempo/ead1d7c5-8d75-4515-9553-1db20b16dd8e |
+| 2026-09-25 | Newform | Video Editor (UGC) | Content | https://jobs.ashbyhq.com/newform/05f60571-5578-4f6e-8321-35181f6f34cf |
+| 2026-09-26 | Midnite | Senior Fullstack Engineer - Admin/AI (Remote UK) | SWE | https://jobs.ashbyhq.com/midnite/95a652e2-c6bd-45f8-adc9-fe65ad780808 |
+| 2026-09-26 | Kiss My Apps | Full Stack Developer (React/Next.js + Node.js) | SWE | https://jobs.ashbyhq.com/kissmyapps/c2456955-b6d2-401a-bed2-361019154ae7/application |
+| 2026-09-26 | Marisa Peer | AI Social Video Content Creator | Content | https://careers.marisapeer.com/jobs/7308001-ai-social-video-content-creator |
+| 2026-09-26 | Dance Masterclass | Social Media Video Editor | Content | https://www.dance-masterclass.com/job-social-media-video-editor |
+| 2026-09-27 | Octopus Electric Vehicles | Senior Full Stack Software Engineer (Python & React) | SWE | https://jobs.lever.co/octoenergy/807448fb-fffc-46b9-afc0-2b38cadaf1a7 |
+| 2026-09-27 | Tempo | Full-Stack Engineer (Remote) | SWE | https://jobs.ashbyhq.com/tempo/374cb123-0dde-427f-a907-e59b66d14624 |
+| 2026-09-27 | Reedsy | Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe | SWE | https://jobs.ashbyhq.com/reedsy/835c9c7b-8b0a-499c-95c6-251c9aea3246 |
+| 2026-09-27 | Much Better Adventures | Creative Video Producer & Editor (Remote) | Content | https://apply.workable.com/muchbetteradventures/j/28C8B871C9/ |
+| 2026-09-27 | Skinnify | Full-Time Video Editor (40h/week) | Content | https://join.com/companies/skinnifyde/15975394-full-time-video-editor-40h-week-for-a-new-looksmaxing-ecommerce-brand |
+| 2026-09-27 | Soar With Us | Digital Video Editor (Meta and TikTok) | Content | https://apply.workable.com/soar-with-us/j/11FA9AFFC3 |
+| 2026-09-27 | AI Acquisition | Direct Response Video Editor - Meta Ads | Content | https://apply.workable.com/ai-acquisition/j/B7E5F58693/ |
+| 2026-09-27 | jello.digital | Video Editor for Performance Ads | Content | https://join.com/companies/jello/16730701-video-editor-for-performance-ads |
