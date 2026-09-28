@@ -74,3 +74,10 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-27 | Soar With Us | Digital Video Editor (Meta and TikTok) | Content | https://apply.workable.com/soar-with-us/j/11FA9AFFC3 |
 | 2026-09-27 | AI Acquisition | Direct Response Video Editor - Meta Ads | Content | https://apply.workable.com/ai-acquisition/j/B7E5F58693/ |
 | 2026-09-27 | jello.digital | Video Editor for Performance Ads | Content | https://join.com/companies/jello/16730701-video-editor-for-performance-ads |
+| 2026-09-28 | Prezi | Full Stack Engineer | SWE | https://weworkremotely.com/remote-jobs/prezi-full-stack-engineer |
+| 2026-09-28 | Ruby Labs | Senior Full-Stack Engineer (Next.js) | SWE | https://jobs.ashbyhq.com/ruby-labs/bc263942-8090-4db5-bd0b-729bf66a79f9 |
+| 2026-09-28 | Jiga | Full Stack Product Engineer | SWE | https://jobs.ashbyhq.com/jiga/96b31de8-9ee2-4110-9314-82f47850bf07 |
+| 2026-09-28 | Aguru (Aguru UK Ltd) | Senior Full Stack Engineer | SWE | https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer |
+| 2026-09-28 | Dexerto | Video Editor - TikTok UK | Content | https://jobs.gohire.io/dexerto-de5jlhjo/video-editor-tiktok-uk-259233/ |
+| 2026-09-28 | Public Nectar Ltd | Video Editor (Performance Marketing Agency) | Content | https://public-nectar-ltd.breezy.hr/p/3bc3e0fd4e4401-video-editor-performance-marketing-agency |
+| 2026-09-28 | Electrify Video Partners | Freelance Video Editor - Fireship | Content | https://electrify.teamtailor.com/jobs/7446141-video-editor-freelance-fireship |
