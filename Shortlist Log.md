@@ -81,3 +81,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-28 | Dexerto | Video Editor - TikTok UK | Content | https://jobs.gohire.io/dexerto-de5jlhjo/video-editor-tiktok-uk-259233/ |
 | 2026-09-28 | Public Nectar Ltd | Video Editor (Performance Marketing Agency) | Content | https://public-nectar-ltd.breezy.hr/p/3bc3e0fd4e4401-video-editor-performance-marketing-agency |
 | 2026-09-28 | Electrify Video Partners | Freelance Video Editor - Fireship | Content | https://electrify.teamtailor.com/jobs/7446141-video-editor-freelance-fireship |
+| 2026-09-30 | Cohere | Software Engineer, Agents & Automations | SWE | https://jobs.ashbyhq.com/cohere |
+| 2026-09-30 | Mimica | Staff/Lead Python Engineer (FastAPI, Orchestration) | SWE | https://jobs.ashbyhq.com/mimica/d07d280b-fb3f-46e2-9c45-f5f5f9f5de15 |
+| 2026-09-30 | Ashby | Staff Platform Engineer, UK | SWE | https://jobs.ashbyhq.com/ashby/ae720f13-ad8b-4fdd-a8c3-5625bdc83a33 |
