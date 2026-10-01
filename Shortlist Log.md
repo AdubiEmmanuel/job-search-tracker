@@ -84,3 +84,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-30 | Cohere | Software Engineer, Agents & Automations | SWE | https://jobs.ashbyhq.com/cohere |
 | 2026-09-30 | Mimica | Staff/Lead Python Engineer (FastAPI, Orchestration) | SWE | https://jobs.ashbyhq.com/mimica/d07d280b-fb3f-46e2-9c45-f5f5f9f5de15 |
 | 2026-09-30 | Ashby | Staff Platform Engineer, UK | SWE | https://jobs.ashbyhq.com/ashby/ae720f13-ad8b-4fdd-a8c3-5625bdc83a33 |
+| 2026-10-01 | Count | Senior Software Engineer - Product | SWE | https://careers.theventure.city/companies/count/jobs/57525464-senior-software-engineer-product |
+| 2026-10-01 | Prosana | Direct-Response Video Editor (Performance Ads) | Content | https://dynamic.jobgether.com/offer/680a75e67522fcc6fd04ff7e-video-editor |
