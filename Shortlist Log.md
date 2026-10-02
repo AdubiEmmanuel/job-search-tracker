@@ -86,3 +86,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-09-30 | Ashby | Staff Platform Engineer, UK | SWE | https://jobs.ashbyhq.com/ashby/ae720f13-ad8b-4fdd-a8c3-5625bdc83a33 |
 | 2026-10-01 | Count | Senior Software Engineer - Product | SWE | https://careers.theventure.city/companies/count/jobs/57525464-senior-software-engineer-product |
 | 2026-10-01 | Prosana | Direct-Response Video Editor (Performance Ads) | Content | https://dynamic.jobgether.com/offer/680a75e67522fcc6fd04ff7e-video-editor |
+| 2026-10-02 | Affirm | Senior Software Engineer, Fullstack (International) | SWE | https://job-boards.greenhouse.io/affirm/jobs/7827039003 |
+| 2026-10-02 | Doist | Frontend Engineer | SWE | https://doist.com/careers/9B4559F899-frontend-engineer |
+| 2026-10-02 | Ethos Life | Video Editor | Content | https://job-boards.greenhouse.io/ethoslife/jobs/8616375002 |
+| 2026-10-02 | Crescat Digital Ltd | Video Editor (Senior) | Content | https://www.getonbrd.com/jobs/advertising-media/wanted-the-world-s-most-reliable-remote-video-editor-crescat-digital-ltd-remote |
+| 2026-10-02 | Your Social Currency | Social Media Manager | Content | https://remotive.com/remote/jobs/marketing/ysc-social-media-manager-3877411 |
