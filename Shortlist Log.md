@@ -91,3 +91,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-02 | Ethos Life | Video Editor | Content | https://job-boards.greenhouse.io/ethoslife/jobs/8616375002 |
 | 2026-10-02 | Crescat Digital Ltd | Video Editor (Senior) | Content | https://www.getonbrd.com/jobs/advertising-media/wanted-the-world-s-most-reliable-remote-video-editor-crescat-digital-ltd-remote |
 | 2026-10-02 | Your Social Currency | Social Media Manager | Content | https://remotive.com/remote/jobs/marketing/ysc-social-media-manager-3877411 |
+| 2026-10-03 | Trimble | React Frontend Engineer (TMW Suite Dispatch) | SWE | https://builtinlondon.uk/job/react-frontend-engineer/11137257 |
+| 2026-10-03 | Peratera | Senior Frontend Engineer | SWE | https://djinni.co/jobs/849142-senior-frontend-engineer/ |
+| 2026-10-03 | Mozilla | Senior Software Engineer (Frontend) | SWE | https://builtinbristol.uk/job/senior-software-engineer/8978494 |
+| 2026-10-03 | Electrify Video Partners | Long Form Video Editor, The Rundown | Content | https://electrify.teamtailor.com/jobs/8175645-long-form-video-editor-the-rundown |
+| 2026-10-03 | Genesis Global | Video Editor (Product/Marketing Demo Videos) | Content | https://remoteok.com/remote-jobs/remote-video-editor-fully-uk-ireland-genesis-global-922108 |
