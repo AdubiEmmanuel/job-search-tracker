@@ -96,3 +96,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-03 | Mozilla | Senior Software Engineer (Frontend) | SWE | https://builtinbristol.uk/job/senior-software-engineer/8978494 |
 | 2026-10-03 | Electrify Video Partners | Long Form Video Editor, The Rundown | Content | https://electrify.teamtailor.com/jobs/8175645-long-form-video-editor-the-rundown |
 | 2026-10-03 | Genesis Global | Video Editor (Product/Marketing Demo Videos) | Content | https://remoteok.com/remote-jobs/remote-video-editor-fully-uk-ireland-genesis-global-922108 |
+| 2026-10-04 | Xapo Bank | Software Engineer (Remote - Work from Anywhere) | SWE | https://job-boards.greenhouse.io/xapo61/jobs/7572065003 |
+| 2026-10-04 | CybSafe | Full Stack Engineer | SWE | https://cybsafe.teamtailor.com/jobs/5235809-full-stack-engineer |
+| 2026-10-04 | Deel | Senior Frontend Engineer, React.js | SWE | https://builtin.com/job/senior-frontend-engineer-react-js/7616770 |
+| 2026-10-04 | Electrify Video Partners | Short Form Video Editor/Animator, Veritasium | Content | https://electrify.teamtailor.com/jobs/7707920-short-form-video-editor-animator-veritasium |
+| 2026-10-04 | Dexerto | Video Content Lead (Social & AI) | Content | https://jobs.gohire.io/dexerto-de5jlhjo/video-content-lead-social-and-ai-282481/ |
