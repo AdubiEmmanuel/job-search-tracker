@@ -101,3 +101,10 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-04 | Deel | Senior Frontend Engineer, React.js | SWE | https://builtin.com/job/senior-frontend-engineer-react-js/7616770 |
 | 2026-10-04 | Electrify Video Partners | Short Form Video Editor/Animator, Veritasium | Content | https://electrify.teamtailor.com/jobs/7707920-short-form-video-editor-animator-veritasium |
 | 2026-10-04 | Dexerto | Video Content Lead (Social & AI) | Content | https://jobs.gohire.io/dexerto-de5jlhjo/video-content-lead-social-and-ai-282481/ |
+| 2026-10-05 | PostHog | Product Engineer | SWE | https://posthog.com/careers/product-engineer |
+| 2026-10-05 | Grafana Labs | Senior Frontend Engineer, Session Replay (Grafana Cloud) | SWE | https://job-boards.greenhouse.io/grafanalabs/jobs/5800029004 |
+| 2026-10-05 | Oyster | Senior Engineer (Platform) | SWE | https://builtin.com/job/senior-engineer-platform/3268731 |
+| 2026-10-05 | Twilio | Software Engineer (Frontend) - Remote UK | SWE | https://job-boards.greenhouse.io/twilio/jobs/7355572 |
+| 2026-10-05 | Electrify Video Partners | Video Editor (Freelance), Simplicissimus & fern | Content | https://electrify.teamtailor.com/jobs/7914042-video-editor-freelance-simplicissimus-fern |
+| 2026-10-05 | Electrify Video Partners | Ad Creative Video Editor, The Rundown | Content | https://electrify.teamtailor.com/jobs/8191736-ad-creative-video-editor-the-rundown |
+| 2026-10-05 | Here Now Films | Film Editor (In-House) | Content | https://www.herenow.film/careers/film-editor-job |
