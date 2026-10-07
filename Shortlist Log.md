@@ -108,3 +108,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-05 | Electrify Video Partners | Video Editor (Freelance), Simplicissimus & fern | Content | https://electrify.teamtailor.com/jobs/7914042-video-editor-freelance-simplicissimus-fern |
 | 2026-10-05 | Electrify Video Partners | Ad Creative Video Editor, The Rundown | Content | https://electrify.teamtailor.com/jobs/8191736-ad-creative-video-editor-the-rundown |
 | 2026-10-05 | Here Now Films | Film Editor (In-House) | Content | https://www.herenow.film/careers/film-editor-job |
+| 2026-10-07 | ev.energy | Senior Backend / Product Engineer (Python/Django/FastAPI) | SWE | https://himalayas.app/companies/ev-energy/jobs/senior-backend-product-engineer |
+| 2026-10-07 | Hedgehog Lab | Senior Full Stack Engineer (React + Python) | SWE | https://careers.hedgehoglab.com/jobs/6557671-senior-full-stack-engineer-react-python |
