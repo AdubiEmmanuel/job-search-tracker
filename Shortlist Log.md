@@ -110,3 +110,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-05 | Here Now Films | Film Editor (In-House) | Content | https://www.herenow.film/careers/film-editor-job |
 | 2026-10-07 | ev.energy | Senior Backend / Product Engineer (Python/Django/FastAPI) | SWE | https://himalayas.app/companies/ev-energy/jobs/senior-backend-product-engineer |
 | 2026-10-07 | Hedgehog Lab | Senior Full Stack Engineer (React + Python) | SWE | https://careers.hedgehoglab.com/jobs/6557671-senior-full-stack-engineer-react-python |
+| 2026-10-15 | Euphoric Global | Software Engineer (Applied AI) | SWE | https://www.datacareer.co.uk/job/13874/software-engineer-applied-ai/ |
+| 2026-10-15 | vidIQ | Senior Frontend Engineer (Remote) | SWE | https://careers.vidiq.com/o/senior-frontend-engineer-remote-3 |
+| 2026-10-15 | Conexwest | Social Media Content Creator & Video Editor | Content | https://himalayas.app/companies/conexwest/jobs/social-media-content-creator-video-editor-3685653955 |
+| 2026-10-15 | Catch Creation | Video Editor | Content | https://job-boards.greenhouse.io/catchcreationllc/jobs/4060944009 |
