@@ -114,3 +114,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-15 | vidIQ | Senior Frontend Engineer (Remote) | SWE | https://careers.vidiq.com/o/senior-frontend-engineer-remote-3 |
 | 2026-10-15 | Conexwest | Social Media Content Creator & Video Editor | Content | https://himalayas.app/companies/conexwest/jobs/social-media-content-creator-video-editor-3685653955 |
 | 2026-10-15 | Catch Creation | Video Editor | Content | https://job-boards.greenhouse.io/catchcreationllc/jobs/4060944009 |
+| 2026-10-16 | Linear | Senior/Staff Fullstack Engineer | SWE | https://linear.app/careers |
+| 2026-10-16 | Electrify Video Partners | Short-Form Video Editor & 3D/2D Motion Designer (Freelance), fern & Simpli | Content | https://electrify.teamtailor.com/jobs/7914005-short-form-video-editor-3d-2d-motion-designer-freelance-fern-simpli |
