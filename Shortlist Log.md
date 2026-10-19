@@ -116,3 +116,4 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-15 | Catch Creation | Video Editor | Content | https://job-boards.greenhouse.io/catchcreationllc/jobs/4060944009 |
 | 2026-10-16 | Linear | Senior/Staff Fullstack Engineer | SWE | https://linear.app/careers |
 | 2026-10-16 | Electrify Video Partners | Short-Form Video Editor & 3D/2D Motion Designer (Freelance), fern & Simpli | Content | https://electrify.teamtailor.com/jobs/7914005-short-form-video-editor-3d-2d-motion-designer-freelance-fern-simpli |
+| 2026-10-19 | Future plc | Video Producer/Editor (GamesRadar+ & PC Gamer) | Content | https://builtinbristol.uk/job/video-producer-editor-gamesradar-pc-gamer/8202623 |
