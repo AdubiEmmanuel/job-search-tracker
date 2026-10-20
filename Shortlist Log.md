@@ -117,3 +117,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-16 | Linear | Senior/Staff Fullstack Engineer | SWE | https://linear.app/careers |
 | 2026-10-16 | Electrify Video Partners | Short-Form Video Editor & 3D/2D Motion Designer (Freelance), fern & Simpli | Content | https://electrify.teamtailor.com/jobs/7914005-short-form-video-editor-3d-2d-motion-designer-freelance-fern-simpli |
 | 2026-10-19 | Future plc | Video Producer/Editor (GamesRadar+ & PC Gamer) | Content | https://builtinbristol.uk/job/video-producer-editor-gamesradar-pc-gamer/8202623 |
+| 2026-10-20 | Oak National Academy | Senior Platform Engineer | SWE | https://flexa.careers/jobs/oaknationalacademy-senior-platform-engineer-6ad203452ed2e1c8e920a368 |
+| 2026-10-20 | Team17 Digital | Social Media Content Creator - FTC 6 Months | Content | https://jobs.workable.com/view/39e58460-a918-42fb-b100-c05bbcbda1b1 |
