@@ -120,3 +120,4 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-20 | Oak National Academy | Senior Platform Engineer | SWE | https://flexa.careers/jobs/oaknationalacademy-senior-platform-engineer-6ad203452ed2e1c8e920a368 |
 | 2026-10-20 | Team17 Digital | Social Media Content Creator - FTC 6 Months | Content | https://jobs.workable.com/view/39e58460-a918-42fb-b100-c05bbcbda1b1 |
 | 2026-10-22 | Kraken | Senior Performance Video Creative - Consumer | Content | https://cryptojobslist.com/jobs/senior-video-creative-performance-london-united-kingdom-brazil-united-at-kraken |
+| 2026-10-23 | Veeva Systems | Senior Frontend Engineer - React (Remote) | SWE | https://jobs.lever.co/veeva/866d4776-9d23-4311-ab16-4ebff725984d |
