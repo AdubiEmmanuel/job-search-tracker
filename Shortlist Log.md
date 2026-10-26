@@ -124,3 +124,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-25 | Attio | Senior Product Engineer [Frontend] | SWE | https://attio.com/careers/senior-product-engineer-frontend |
 | 2026-10-25 | YunoJuno | Frontend-leaning Full-Stack Software Engineer | SWE | https://yunojuno.teamtailor.com/jobs/7095824-frontend-leaning-full-stack-software-engineer |
 | 2026-10-25 | Ignite Growth | Video Editor / Social Media Content | Content | https://www.escapethecity.org/opportunity/55486-video-editor-at-ignite-growth |
+| 2026-10-26 | Plentific | Senior Frontend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/plentific/81e89479-f326-4b12-bf99-e0b05a0e5a7f |
+| 2026-10-26 | Cytora | Senior Backend Engineer (Remote UK/Ireland) | SWE | https://jobs.ashbyhq.com/cytora.com/ef442ee3-f1bd-4f87-b13b-c0b444ad71d4 |
+| 2026-10-26 | Wayflyer | Backend Software Engineer (Remote Europe) | SWE | https://seedtable.com/jobs/44470 |
+| 2026-10-26 | Firstup | Sr. Software Engineer, Fullstack (Remote UK) | SWE | https://jobs.lever.co/firstup/36ab5891-2786-4311-8e81-180709a3a713 |
+| 2026-10-26 | Embarque | Video Editor (Remote UK) | Content | https://wellfound.com/jobs/3087328-video-editor-remote |
