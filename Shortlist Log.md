@@ -129,3 +129,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-26 | Wayflyer | Backend Software Engineer (Remote Europe) | SWE | https://seedtable.com/jobs/44470 |
 | 2026-10-26 | Firstup | Sr. Software Engineer, Fullstack (Remote UK) | SWE | https://jobs.lever.co/firstup/36ab5891-2786-4311-8e81-180709a3a713 |
 | 2026-10-26 | Embarque | Video Editor (Remote UK) | Content | https://wellfound.com/jobs/3087328-video-editor-remote |
+| 2026-10-27 | Zeteo | Social Video Editor/Producer (Part-Time Contract) | Content | https://remotive.com/remote/jobs/design/social-video-editor-producer-5167671 |
+| 2026-10-27 | Dexerto | Short-Form Video Editor | Content | https://jobs.gohire.io/dexerto-de5jlhjo/short-form-video-editor-243702 |
