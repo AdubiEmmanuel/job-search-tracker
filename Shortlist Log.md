@@ -131,3 +131,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-26 | Embarque | Video Editor (Remote UK) | Content | https://wellfound.com/jobs/3087328-video-editor-remote |
 | 2026-10-27 | Zeteo | Social Video Editor/Producer (Part-Time Contract) | Content | https://remotive.com/remote/jobs/design/social-video-editor-producer-5167671 |
 | 2026-10-27 | Dexerto | Short-Form Video Editor | Content | https://jobs.gohire.io/dexerto-de5jlhjo/short-form-video-editor-243702 |
+| 2026-10-28 | Electrify Video Partners | Guide Editor, The Rundown | Content | https://electrify.teamtailor.com/jobs/8154269-guide-editor-the-rundown |
+| 2026-10-28 | Shook Digital | Freelance Video Editor (UGC Performance Ads) | Content | https://builtin.com/job/freelance-video-editor/9284102 |
