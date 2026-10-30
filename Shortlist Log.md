@@ -133,3 +133,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-27 | Dexerto | Short-Form Video Editor | Content | https://jobs.gohire.io/dexerto-de5jlhjo/short-form-video-editor-243702 |
 | 2026-10-28 | Electrify Video Partners | Guide Editor, The Rundown | Content | https://electrify.teamtailor.com/jobs/8154269-guide-editor-the-rundown |
 | 2026-10-28 | Shook Digital | Freelance Video Editor (UGC Performance Ads) | Content | https://builtin.com/job/freelance-video-editor/9284102 |
+| 2026-10-30 | Tabeo | Senior Frontend Engineer (TypeScript/React) | SWE | https://tabeo.teamtailor.com |
+| 2026-10-30 | TrustedHousesitters | Senior Engineer I (Full Stack) | SWE | https://jobs.lever.co/trustedhousesitters.com/9777b8eb-05b0-40de-afdd-b06caa5646e6 |
+| 2026-10-30 | Electrify Video Partners | Freelance Video Editor, New Earth Science YouTube Channel (Astrum-Earth) | Content | https://join.com/companies/electrify/13541777-freelance-video-editor-for-new-earth-science-youtube-channel |
