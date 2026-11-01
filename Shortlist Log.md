@@ -136,3 +136,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-10-30 | Tabeo | Senior Frontend Engineer (TypeScript/React) | SWE | https://tabeo.teamtailor.com |
 | 2026-10-30 | TrustedHousesitters | Senior Engineer I (Full Stack) | SWE | https://jobs.lever.co/trustedhousesitters.com/9777b8eb-05b0-40de-afdd-b06caa5646e6 |
 | 2026-10-30 | Electrify Video Partners | Freelance Video Editor, New Earth Science YouTube Channel (Astrum-Earth) | Content | https://join.com/companies/electrify/13541777-freelance-video-editor-for-new-earth-science-youtube-channel |
+| 2026-11-01 | SoSafe | IAM Fullstack Engineer / Senior Fullstack Engineer (TypeScript/React/Node) | SWE | https://builtinlondon.uk/job/iam-fullstack-engineer/10895138 |
+| 2026-11-01 | Explore Learning | Web & React Software Engineer (6-month FTC) | SWE | https://remotive.com/remote/jobs/software-development/web-react-software-engineer-4620318 |
+| 2026-11-01 | Reach plc | Video Producer (Affiliate Content) | Content | https://builtinbristol.uk/job/video-producer-affiliate-content/8917575 |
+| 2026-11-01 | Snowball | Video Editor, YouTube | Content | https://www.remoterocketship.com/company/snowball-agency/jobs/video-editor-youtube-united-kingdom-remote |
