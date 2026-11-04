@@ -142,3 +142,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-01 | Snowball | Video Editor, YouTube | Content | https://www.remoterocketship.com/company/snowball-agency/jobs/video-editor-youtube-united-kingdom-remote |
 | 2026-11-02 | Electrify Video Partners | Freelance Video Editor - Fireship | Content | https://electrify.teamtailor.com/jobs/8005761-video-editor-freelancer-fireship |
 | 2026-11-02 | Electrify Video Partners | Junior Editor-in-Chief (Freelance), fern | Content | https://electrify.teamtailor.com/jobs/8038672-junior-editor-in-chief-freelance-fern |
+| 2026-11-04 | Reincubate | Software Engineer (Python/JS, remote GMT) | SWE | https://reincubate.breezy.hr/p/841a864c56ac01-software-engineer-python-js-remote-gmt |
+| 2026-11-04 | Dexerto | Junior Social Editor | Content | https://jobs.gohire.io/dexerto-de5jlhjo/junior-social-editor-229690 |
