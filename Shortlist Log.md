@@ -144,3 +144,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-02 | Electrify Video Partners | Junior Editor-in-Chief (Freelance), fern | Content | https://electrify.teamtailor.com/jobs/8038672-junior-editor-in-chief-freelance-fern |
 | 2026-11-04 | Reincubate | Software Engineer (Python/JS, remote GMT) | SWE | https://reincubate.breezy.hr/p/841a864c56ac01-software-engineer-python-js-remote-gmt |
 | 2026-11-04 | Dexerto | Junior Social Editor | Content | https://jobs.gohire.io/dexerto-de5jlhjo/junior-social-editor-229690 |
+| 2026-11-11 | ElevenLabs | Full-Stack Engineer, Creative Studio | SWE | https://elevenlabs.io/careers/17c06970-0b47-43bc-beb7-ce34cc98f93c/full-stack-engineer-creative-studio |
+| 2026-11-11 | SalesAPE.ai | Full-Stack Engineer | SWE | https://builtinlondon.uk/job/full-stack-engineer/10241309 |
+| 2026-11-11 | Grafana Labs | Senior Frontend Engineer, Alerting (UK, Remote) | SWE | https://builtin.com/job/senior-frontend-engineer-alerting-uk-remote/8979775 |
+| 2026-11-11 | Nscale | Video Editor (Senior, Remote UK) | Content | https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4826067101 |
+| 2026-11-11 | Pixaera | Video Content Creator/Editor | Content | https://apply.workable.com/pixaera/j/EE2270238E/ |
