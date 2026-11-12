@@ -149,3 +149,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-11 | Grafana Labs | Senior Frontend Engineer, Alerting (UK, Remote) | SWE | https://builtin.com/job/senior-frontend-engineer-alerting-uk-remote/8979775 |
 | 2026-11-11 | Nscale | Video Editor (Senior, Remote UK) | Content | https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4826067101 |
 | 2026-11-11 | Pixaera | Video Content Creator/Editor | Content | https://apply.workable.com/pixaera/j/EE2270238E/ |
+| 2026-11-12 | Dotdigital | Software Engineer (Python / JavaScript) | SWE | https://careers.dotdigital.com/jobs/5378029-software-engineer-python-javascript |
+| 2026-11-12 | The Flex (Base360.ai) | Senior Software Engineer | SWE | https://jobs.ashbyhq.com/The-Flex/d9457005-2ae9-410f-8fe7-164ff0ad1840 |
+| 2026-11-12 | Plentific | Senior Backend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/plentific/1457ea09-10e5-4cff-bd80-0ab845c9edf6 |
