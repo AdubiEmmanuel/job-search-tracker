@@ -152,3 +152,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-12 | Dotdigital | Software Engineer (Python / JavaScript) | SWE | https://careers.dotdigital.com/jobs/5378029-software-engineer-python-javascript |
 | 2026-11-12 | The Flex (Base360.ai) | Senior Software Engineer | SWE | https://jobs.ashbyhq.com/The-Flex/d9457005-2ae9-410f-8fe7-164ff0ad1840 |
 | 2026-11-12 | Plentific | Senior Backend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/plentific/1457ea09-10e5-4cff-bd80-0ab845c9edf6 |
+| 2026-11-13 | Linear Agency | Video Editor (Personal Brand Content) | Content | https://linear-agency.breezy.hr/p/a03624cacdc2-video-editor-personal-brand-content |
+| 2026-11-13 | Purolabs | UGC Content Creator (Full-Time) | Content | https://careers-page.com/purolabs/job/L95W8RV4 |
