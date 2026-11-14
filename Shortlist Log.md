@@ -154,3 +154,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-12 | Plentific | Senior Backend Engineer (Remote) | SWE | https://jobs.ashbyhq.com/plentific/1457ea09-10e5-4cff-bd80-0ab845c9edf6 |
 | 2026-11-13 | Linear Agency | Video Editor (Personal Brand Content) | Content | https://linear-agency.breezy.hr/p/a03624cacdc2-video-editor-personal-brand-content |
 | 2026-11-13 | Purolabs | UGC Content Creator (Full-Time) | Content | https://careers-page.com/purolabs/job/L95W8RV4 |
+| 2026-11-14 | Haystack | Full Stack Engineer | SWE | https://web.haystackapp.io/roles/69e9ef191df3b5562246f20c |
+| 2026-11-14 | Lifted (Upwork) | Full-Stack Engineer | SWE | https://builtinlondon.uk/job/full-stack-engineer/11374723 |
+| 2026-11-14 | Unitary | Software Engineer | SWE | https://apply.workable.com/unitary/jobs/view/A339CD1433 |
