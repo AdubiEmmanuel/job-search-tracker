@@ -157,3 +157,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-14 | Haystack | Full Stack Engineer | SWE | https://web.haystackapp.io/roles/69e9ef191df3b5562246f20c |
 | 2026-11-14 | Lifted (Upwork) | Full-Stack Engineer | SWE | https://builtinlondon.uk/job/full-stack-engineer/11374723 |
 | 2026-11-14 | Unitary | Software Engineer | SWE | https://apply.workable.com/unitary/jobs/view/A339CD1433 |
+| 2026-11-15 | ProblemShared | Full-Stack Software Engineer | SWE | https://careers.problemshared.net/jobs/8195627-full-stack-software-engineer |
+| 2026-11-15 | Lendable | React Engineer | SWE | https://startup.jobs/react-engineer-lendable-co-uk-8368152 |
+| 2026-11-15 | Spotted Zebra | Senior Product Engineer | SWE | https://apply.workable.com/spotted-zebra/jobs/view/47D4855C2D |
