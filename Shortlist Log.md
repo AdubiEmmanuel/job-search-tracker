@@ -160,3 +160,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-15 | ProblemShared | Full-Stack Software Engineer | SWE | https://careers.problemshared.net/jobs/8195627-full-stack-software-engineer |
 | 2026-11-15 | Lendable | React Engineer | SWE | https://startup.jobs/react-engineer-lendable-co-uk-8368152 |
 | 2026-11-15 | Spotted Zebra | Senior Product Engineer | SWE | https://apply.workable.com/spotted-zebra/jobs/view/47D4855C2D |
+| 2026-11-16 | Geeky Tech Ltd | AI-Native Full Stack Developer (Remote) | SWE | https://www.geekytech.co.uk/careers/ai-native-full-stack-developer/ |
+| 2026-11-16 | Companion Group Ltd | Senior Video Editor | Content | https://companiongroupltd.recruitee.com/o/senior-video-editor |
+| 2026-11-16 | No Joke Marketing | Videographer / Video Editor (Remote, UK-based) | Content | https://filmlocal.com/job/videographer-remote/ |
