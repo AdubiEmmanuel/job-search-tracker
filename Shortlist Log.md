@@ -163,3 +163,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-16 | Geeky Tech Ltd | AI-Native Full Stack Developer (Remote) | SWE | https://www.geekytech.co.uk/careers/ai-native-full-stack-developer/ |
 | 2026-11-16 | Companion Group Ltd | Senior Video Editor | Content | https://companiongroupltd.recruitee.com/o/senior-video-editor |
 | 2026-11-16 | No Joke Marketing | Videographer / Video Editor (Remote, UK-based) | Content | https://filmlocal.com/job/videographer-remote/ |
+| 2026-11-17 | InvestEngine | Senior Backend Engineer (Remote) | SWE | https://careers.investengine.com/jobs/6227405-senior-backend-engineer-remote |
+| 2026-11-17 | Alma Economics | Full-Stack Engineer (Django/React) | SWE | https://jobs24.co.uk/job/full-stack-engineer-124346959 |
+| 2026-11-17 | Beautiful Destinations | Freelance Lead Video Editor | Content | https://remotive.com/remote/jobs/design/freelance-lead-video-editor-5611928 |
+| 2026-11-17 | Architek | Long Form Video Editor (YouTube) | Content | https://filmlocal.com/?p=1442427 |
