@@ -167,3 +167,4 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-17 | Alma Economics | Full-Stack Engineer (Django/React) | SWE | https://jobs24.co.uk/job/full-stack-engineer-124346959 |
 | 2026-11-17 | Beautiful Destinations | Freelance Lead Video Editor | Content | https://remotive.com/remote/jobs/design/freelance-lead-video-editor-5611928 |
 | 2026-11-17 | Architek | Long Form Video Editor (YouTube) | Content | https://filmlocal.com/?p=1442427 |
+| 2026-11-18 | Elavate Superfoods | UGC Coordinator (D2C Health Brand) | Content | https://www.netinfluencer.com/jobs/ugc-coordinator-d2c-health-brand-at-elavate-superfoods/ |
