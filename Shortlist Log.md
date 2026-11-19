@@ -168,3 +168,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-17 | Beautiful Destinations | Freelance Lead Video Editor | Content | https://remotive.com/remote/jobs/design/freelance-lead-video-editor-5611928 |
 | 2026-11-17 | Architek | Long Form Video Editor (YouTube) | Content | https://filmlocal.com/?p=1442427 |
 | 2026-11-18 | Elavate Superfoods | UGC Coordinator (D2C Health Brand) | Content | https://www.netinfluencer.com/jobs/ugc-coordinator-d2c-health-brand-at-elavate-superfoods/ |
+| 2026-11-19 | Overstory | Senior Software Engineer, Full Stack | SWE | https://job-boards.eu.greenhouse.io/overstory/jobs/4600037101 |
+| 2026-11-19 | 82dash | Content Creator (Freelance, UK Remote) | Content | https://join.com/companies/82dash/16957180-content-creator-freelance-uk-remote |
+| 2026-11-19 | UniUpp | Remote Content Creator (UGC) | Content | https://uk.karier.co/amp/remote-content-creator-ugc-at-uniupp-9d33cdea |
+| 2026-11-19 | DX4Design | Social Media Content Creator (Remote, UK) | Content | https://www.netinfluencer.com/jobs/social-media-content-creator-remote-uk-at-dx4design/ |
