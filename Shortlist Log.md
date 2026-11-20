@@ -172,3 +172,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-19 | 82dash | Content Creator (Freelance, UK Remote) | Content | https://join.com/companies/82dash/16957180-content-creator-freelance-uk-remote |
 | 2026-11-19 | UniUpp | Remote Content Creator (UGC) | Content | https://uk.karier.co/amp/remote-content-creator-ugc-at-uniupp-9d33cdea |
 | 2026-11-19 | DX4Design | Social Media Content Creator (Remote, UK) | Content | https://www.netinfluencer.com/jobs/social-media-content-creator-remote-uk-at-dx4design/ |
+| 2026-11-20 | Wealth Wizards | Software Engineer (Node.js/TypeScript/React) | SWE | https://builtinlondon.uk/job/software-engineer/10524225 |
+| 2026-11-20 | Fatsoma | Senior Front End Engineer (React/Next.js) | SWE | https://fatsoma.betterteam.com/senior-front-end-engineer |
+| 2026-11-20 | Defaqto (Fintel plc) | Full Stack Developer (Python/Django/React) | SWE | https://remotive.com/remote/jobs/software-development/full-stack-developer-4156938 |
+| 2026-11-20 | HOLY | Video & Social Media Content Creator (UK-based) | Content | https://holy.jobs.personio.com/job/2440969 |
+| 2026-11-20 | Mouldd (Craft Brand) | Social & Influencer Executive | Content | https://www.netinfluencer.com/jobs/social-influencer-executive-mouldd-craft-brand-at-mouldd/ |
