@@ -177,3 +177,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-20 | Defaqto (Fintel plc) | Full Stack Developer (Python/Django/React) | SWE | https://remotive.com/remote/jobs/software-development/full-stack-developer-4156938 |
 | 2026-11-20 | HOLY | Video & Social Media Content Creator (UK-based) | Content | https://holy.jobs.personio.com/job/2440969 |
 | 2026-11-20 | Mouldd (Craft Brand) | Social & Influencer Executive | Content | https://www.netinfluencer.com/jobs/social-influencer-executive-mouldd-craft-brand-at-mouldd/ |
+| 2026-11-21 | Grafana Labs | Senior Fullstack Engineer, Grafana Ops - IRM (Remote, UK) | SWE | https://job-boards.greenhouse.io/grafanalabs/jobs/5639106004 |
+| 2026-11-21 | Unibuddy | Software Engineer (UK/Europe) | SWE | https://unibuddy-1668416154.teamtailor.com/jobs/6282982-software-engineer-uk-europe |
+| 2026-11-21 | Flash Pack | Video Editor (Fully Remote, UK) | Content | https://careers.flashpack.com/jobs/8265780-video-editor |
