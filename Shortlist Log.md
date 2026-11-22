@@ -180,3 +180,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-21 | Grafana Labs | Senior Fullstack Engineer, Grafana Ops - IRM (Remote, UK) | SWE | https://job-boards.greenhouse.io/grafanalabs/jobs/5639106004 |
 | 2026-11-21 | Unibuddy | Software Engineer (UK/Europe) | SWE | https://unibuddy-1668416154.teamtailor.com/jobs/6282982-software-engineer-uk-europe |
 | 2026-11-21 | Flash Pack | Video Editor (Fully Remote, UK) | Content | https://careers.flashpack.com/jobs/8265780-video-editor |
+| 2026-11-22 | OpenSolar | Full Stack Engineer (Remote, UK) | SWE | https://www.wearedevelopers.com/en/jobs/ext/5616140/full-stack-engineer |
+| 2026-11-22 | Falcon Funded | UGC Creator - UK | Content | https://builtin.com/job/ugc-creator-uk/9716086 |
