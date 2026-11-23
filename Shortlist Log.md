@@ -182,3 +182,8 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-21 | Flash Pack | Video Editor (Fully Remote, UK) | Content | https://careers.flashpack.com/jobs/8265780-video-editor |
 | 2026-11-22 | OpenSolar | Full Stack Engineer (Remote, UK) | SWE | https://www.wearedevelopers.com/en/jobs/ext/5616140/full-stack-engineer |
 | 2026-11-22 | Falcon Funded | UGC Creator - UK | Content | https://builtin.com/job/ugc-creator-uk/9716086 |
+| 2026-11-23 | Ascent.io | Senior Software Engineer (Python, GenAI) | SWE | https://builtin.com/job/senior-software-engineer-python-genai/8862647 |
+| 2026-11-23 | Codility | Software Engineer (Python/Django/FastAPI) | SWE | https://builtinlondon.uk/job/software-engineer/11932073 |
+| 2026-11-23 | Substrakt | Backend Engineer (Python/Django/Wagtail) | SWE | https://apply.workable.com/substrakt/jobs/view/720C6B5570 |
+| 2026-11-23 | Cowlabs | Full Stack Developer (TypeScript/React/Next.js, portfolio venture) | SWE | https://www.itjobswatch.co.uk/jv/Cowlabs/Full-Stack-Engineer-Job-UK-4ztb1g |
+| 2026-11-23 | CapsLock | Social Media Video Editor & Designer | Content | https://builtinlondon.uk/job/social-media-video-editor-designer/11061122 |
