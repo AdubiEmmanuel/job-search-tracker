@@ -187,3 +187,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-23 | Substrakt | Backend Engineer (Python/Django/Wagtail) | SWE | https://apply.workable.com/substrakt/jobs/view/720C6B5570 |
 | 2026-11-23 | Cowlabs | Full Stack Developer (TypeScript/React/Next.js, portfolio venture) | SWE | https://www.itjobswatch.co.uk/jv/Cowlabs/Full-Stack-Engineer-Job-UK-4ztb1g |
 | 2026-11-23 | CapsLock | Social Media Video Editor & Designer | Content | https://builtinlondon.uk/job/social-media-video-editor-designer/11061122 |
+| 2026-11-24 | Octopus Energy | Full Stack Software Engineer (Python & React) | SWE | https://builtinlondon.uk/job/full-stack-software-engineer/11548649 |
+| 2026-11-24 | BlockDox | Senior Python Software Engineer (Python/React/Node.js) | SWE | https://www.python.org/jobs/7535/ |
+| 2026-11-24 | Watch Harbor | Freelance Video Editor (YouTube & Social Media) | Content | https://www.twine.net/projects/b9uh80-freelance-video-editor-youtube-social-media-video-editor-in-united-kingdom-job |
+| 2026-11-24 | Samako | UGC Manager (UK) | Content | https://www.netinfluencer.com/jobs/ugc-manager-uk-at-samako-united-kingdom/ |
