@@ -191,3 +191,5 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-24 | BlockDox | Senior Python Software Engineer (Python/React/Node.js) | SWE | https://www.python.org/jobs/7535/ |
 | 2026-11-24 | Watch Harbor | Freelance Video Editor (YouTube & Social Media) | Content | https://www.twine.net/projects/b9uh80-freelance-video-editor-youtube-social-media-video-editor-in-united-kingdom-job |
 | 2026-11-24 | Samako | UGC Manager (UK) | Content | https://www.netinfluencer.com/jobs/ugc-manager-uk-at-samako-united-kingdom/ |
+| 2026-11-25 | Firehawk Funerals | Senior Software Developer (Remote, UK Based) | SWE | https://uk.indeed.com/jobs?q=Firehawk+Funerals+Senior+Software+Developer&l=Remote |
+| 2026-11-25 | PollStream | Architect | SWE | https://uk.indeed.com/jobs?q=PollStream+Architect&l=Remote |
