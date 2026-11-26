@@ -193,3 +193,6 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-24 | Samako | UGC Manager (UK) | Content | https://www.netinfluencer.com/jobs/ugc-manager-uk-at-samako-united-kingdom/ |
 | 2026-11-25 | Firehawk Funerals | Senior Software Developer (Remote, UK Based) | SWE | https://uk.indeed.com/jobs?q=Firehawk+Funerals+Senior+Software+Developer&l=Remote |
 | 2026-11-25 | PollStream | Architect | SWE | https://uk.indeed.com/jobs?q=PollStream+Architect&l=Remote |
+| 2026-11-26 | Pitchup.com | Senior Backend Engineer (Remote UK) | SWE | https://builtin.com/job/senior-backend-engineer-remote-uk/6199309 |
+| 2026-11-26 | 7xContent | Video Editor | Content | https://podnews.net/job/7xcontent/video-editor-8 |
+| 2026-11-26 | Cambridge Spark | Social Media Content Creator / Graphic Design | Content | https://builtinlondon.uk/job/social-media-content-creator-graphic-design/11519722 |
