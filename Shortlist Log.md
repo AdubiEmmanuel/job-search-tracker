@@ -196,3 +196,4 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-26 | Pitchup.com | Senior Backend Engineer (Remote UK) | SWE | https://builtin.com/job/senior-backend-engineer-remote-uk/6199309 |
 | 2026-11-26 | 7xContent | Video Editor | Content | https://podnews.net/job/7xcontent/video-editor-8 |
 | 2026-11-26 | Cambridge Spark | Social Media Content Creator / Graphic Design | Content | https://builtinlondon.uk/job/social-media-content-creator-graphic-design/11519722 |
+| 2026-11-27 | Job Crystal | Head of Media Editing | Content | https://remotive.com/remote/jobs/all-others/head-of-media-editing-5696963 |
