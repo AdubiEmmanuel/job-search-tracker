@@ -197,3 +197,7 @@ Columns: Date | Company | Role | Track | Link
 | 2026-11-26 | 7xContent | Video Editor | Content | https://podnews.net/job/7xcontent/video-editor-8 |
 | 2026-11-26 | Cambridge Spark | Social Media Content Creator / Graphic Design | Content | https://builtinlondon.uk/job/social-media-content-creator-graphic-design/11519722 |
 | 2026-11-27 | Job Crystal | Head of Media Editing | Content | https://remotive.com/remote/jobs/all-others/head-of-media-editing-5696963 |
+| 2026-11-28 | YunoJuno | Frontend-leaning Full-Stack Software Engineer | SWE | https://yunojuno.teamtailor.com/jobs/7095824-frontend-leaning-full-stack-software-engineer |
+| 2026-11-28 | Overloop | Mid/Senior Django / Full-Stack Engineer (Europe or Africa based, Fully Remote) | SWE | https://www.itjobswatch.co.uk/jv/Overloop/Mid-Senior-Django-Full-Stack-engineer-Europe-or-Africa-based-Fully-remote-Job-London-UK-4xhtoz |
+| 2026-11-28 | Crypto Banter | Video Editor (Long Form) | Content | https://jobs.lever.co/crypto-banter/1e051d0d-25a0-4118-8ea2-9fc865e7be46 |
+| 2026-11-28 | CapsLock | AI Video Editor / Motion Designer | Content | https://builtinlondon.uk/job/ai-video-editor-motion-designer/9125837 |
